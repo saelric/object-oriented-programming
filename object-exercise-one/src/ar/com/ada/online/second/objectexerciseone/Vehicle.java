@@ -6,7 +6,7 @@ public class Vehicle {
     String color;
 
     void moveOn(){
-        System.out.println("Estoy en move on");
+        System.out.println("Estoy en movimiento");
     }
 
     void brake(){

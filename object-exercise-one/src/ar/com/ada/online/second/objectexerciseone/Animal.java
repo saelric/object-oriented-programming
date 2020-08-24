@@ -6,14 +6,14 @@ public class Animal {
     String name;
 
     void move(){
-        System.out.println("Estoy en move");
+        System.out.println("Estoy en movimiento");
     }
 
     void sleep(){
-        System.out.println("Estoy en Sleep");
+        System.out.println("Estoy durmiendo");
     }
 
     void eat(){
-        System.out.println("Estoy en eat");
+        System.out.println("Estoy comiendo");
     }
 }
