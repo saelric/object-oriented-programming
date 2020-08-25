@@ -10,6 +10,6 @@ public class Vehicle {
     }
 
     void brake(){
-        System.out.println("Estoy en brake");
+        System.out.println("Estoy en frenando");
     }
 }
